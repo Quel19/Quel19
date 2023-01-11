@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Quel19/Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Virtual Machine](https://github.com/Quel19/Virtual-Machine)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Quel19/...)
 
 <h2>🤳Connect with me:</h2>
 
